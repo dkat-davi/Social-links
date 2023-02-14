@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Social Tree</h1>
     <p>Page with a list of links that can be used in social network profiles to direct the use to the chosen location</p>
-    <img style="min-width:300px" src="./social-links.png" alt="initial design"></img>
+    <img style="min-width:300px" src="./social-tree-preview.png" alt="initial design"></img>
     <a href="https://www.figma.com/file/yi1ycIyAW8QiGiX9bMFHkU/DD-%2F-Social-links/duplicate" target="_blank">
         <small><p>project layout</p></small>
     </a>
