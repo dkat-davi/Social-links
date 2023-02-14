@@ -6,20 +6,17 @@
     width: 326px;
     height: 49px;
 
+    margin-bottom: 15px;
     border: 2px solid white;
 
-    margin-bottom: 15px;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
 
     transition: transform .3s ease-out;
 }
 
 .button:hover {
     transform: translateY(-5px);
-}
-
-.button .text-button {
-    color: white;
-    font-weight: 600;
-    text-decoration: none;
-    text-transform: uppercase;
 }
