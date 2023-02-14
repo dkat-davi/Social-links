@@ -16,10 +16,9 @@
 </div>
 
 
-<div style="display: inline_block">
+<p><small><strong>Builded with: </strong></small>
     <img align="center" alt="DKAT-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>  
-    <p><small><strong>Build with REACT</strong></small><p>
-</div>
+</p>
 
 
 <footer align="right">
