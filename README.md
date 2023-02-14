@@ -16,6 +16,12 @@
 </div>
 
 
+<div style="display: inline_block">
+    <img align="center" alt="DKAT-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>  
+    <p><small><strong>Build with REACT</strong></small><p>
+</div>
+
+
 <footer align="right">
     <a href="https://efficient-sloth-d85.notion.site/Desafio-Social-Tree-a4008e467a3248c4b05c97cf78aea44f" target="_blank">
         <strong>Challenge from Rocketseat</strong>
